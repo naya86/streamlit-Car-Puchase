@@ -17,7 +17,7 @@ from ml_app import run_ml_app
 import joblib
 
 
-###이거 되는기가.
+
 def main() :
     st.set_page_config(layout='wide', initial_sidebar_state='collapsed')
     st.title('자동차 가격 예측')
