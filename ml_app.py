@@ -74,4 +74,4 @@ def run_ml_app():
     if btn :
         st.write('예측결과입니다. {:,.1f}달러의 차를 살 수 있습니다.'.format(y_pred_original[0,0]))
     
-    
+     
