@@ -19,7 +19,7 @@ import joblib
 
 
 def main() :
-    st.set_page_config(layout='wide', initial_sidebar_state='collapsed')
+    st.set_page_config(layout='wide')
     st.title('자동차 가격 예측')
     
     menu = ['Home', 'EDA', 'ML']
